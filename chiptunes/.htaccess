@@ -1,0 +1,6 @@
+IndexOptions -FancyIndexing
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?arc-nova.org/forum(/)?.*$     [NC]
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?arc-nova.org(/)?.*$     [NC]
+RewriteRule .*\.(zip|rar|ace|7z)$ http://www.arc-nova.org/ [R,NC]

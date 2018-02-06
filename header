@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<title>
+			Arc-Nova.org
+		</title>
+		<link REL="SHORTCUT ICON" HREF="http://www.arc-nova.org/note.png">
+	</head>
+
+	<body>
+		<link rel="stylesheet" type="text/css" href="mainstyle.css" /> 
+		<div id=text class="title">
+			Arc-Nova.org
+		</div>
+		<div class="slogan">
+			<?php include("quotes.php"); ?>
+		</div>
+		<br>
+		<div class="navbar">
+			<div class="navbar-inner">
+				<div class="linkboxA">
+					<a href=http://localhost/sj/arc/index.php>
+						News
+					</a>
+					<a href=http://localhost/sj/arc/hosted.php>
+						Hosted
+					</a>
+					<a href=http://localhost/sj/arc/links.php>
+						Links
+					</a>
+				</div>
+				<div class="linkboxB">
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						2SF
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						GBS
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						GSF
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						HES
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						KSS
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						MIDI
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						NSF
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						PSF
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						PSF2
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						SID
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						SPC
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						USF
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						VGM
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						VGZ
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/files.php?type=NSF>
+						WSR
+					</a>
+					<a href=http://localhost/sj/arc/chiptunes/info.php>
+						Info
+					</a>
+				</div>
+			</div>
+		</div>
+		<br>
